@@ -451,7 +451,7 @@ I am a student and want to read this article, but I do not have any time. Could 
 ### Prompt 12: Data Analysis
 In this prompt, you will be analyzing data for your need. 
 
-**Note:** You can download the data from [here](https://elon.box.com/s/1234567890).
+**Note:** You can download the data from [here](https://github.com/mustafaakben/ai_for_students/blob/main/prompts/data/WorkshopData.csv).
 
 <details>
     <summary><b>Prompt 12: Data Analysis</b></summary>
