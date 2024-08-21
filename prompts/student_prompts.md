@@ -5,15 +5,15 @@
 Elon University offers a variety of resources for students to learn about and work with AI. We will update this section as we discover more about the available resources.
 
 ### AI Resources By Elon University
-- [Elon University AI Hub](https://www.elon.edu/ai){:target="_blank"}
-- [ElonGPT for Advising and Events](https://www.elon.edu/u/academics/koenigsberger-learning-center/academic-advising/elongpt/){:target="_blank"}
+- [Elon University AI Hub](https://www.elon.edu/ai)
+- [ElonGPT for Advising and Events](https://www.elon.edu/u/academics/koenigsberger-learning-center/academic-advising/elongpt/)
 
 ### Other Useful AI Resources
-- [AI News Curator](https://chatgpt.com/g/g-b3btZndQe-ai-news-curator){:target="_blank"}
-- [Event Scheduler](https://chatgpt.com/g/g-Zrqm4YZ0c-event-scheduler){:target="_blank"}
-- [Consensus GPT for Literature Review](https://chat.openai.com/g/g-bo0FiWLY7-consensus){:target="_blank"}
-- [Socratic GPT for Critical Thinking](https://chatgpt.com/g/g-6zZQPWMPd-socraticchatbot){:target="_blank"}
-- [ProductivityGPT](https://chatgpt.com/g/g-cqwSFz6LX-productivity-tools){:target="_blank"}
+- [AI News Curator](https://chatgpt.com/g/g-b3btZndQe-ai-news-curator)
+- [Event Scheduler](https://chatgpt.com/g/g-Zrqm4YZ0c-event-scheduler)
+- [Consensus GPT for Literature Review](https://chat.openai.com/g/g-bo0FiWLY7-consensus)
+- [Socratic GPT for Critical Thinking](https://chatgpt.com/g/g-6zZQPWMPd-socraticchatbot)
+- [ProductivityGPT](https://chatgpt.com/g/g-cqwSFz6LX-productivity-tools)
 
 
 ---
